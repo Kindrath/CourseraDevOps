@@ -11,6 +11,9 @@ assignees: ''
 **I need** [function]
 **So that** [benefit]
 
+**Given and Assumptions**
+[anything that can help get this story sprint ready]
+
 ```Gherkin
 Given [context]
 When [event/condition]
